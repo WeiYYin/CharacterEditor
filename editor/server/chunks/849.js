@@ -1,0 +1,1 @@
+"use strict";exports.id=849,exports.ids=[849],exports.modules={9849:(e,o,r)=>{r.r(o),r.d(o,{$$typeof:()=>a,__esModule:()=>s,default:()=>i});var t=r(5153);let d=(0,t.createProxy)(String.raw`C:\Code\GitHub\CharacterEditor\src\app\[locale]\_ui\worldbook\WorldBook.tsx`),{__esModule:s,$$typeof:a}=d,l=d.default,i=l}};

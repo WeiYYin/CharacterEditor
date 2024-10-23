@@ -1,0 +1,14 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/api/CC/route": "app/api/CC/route.js",
+  "/api/makechar/route": "app/api/makechar/route.js",
+  "/api/upcover/route": "app/api/upcover/route.js",
+  "/api/readchar/route": "app/api/readchar/route.js",
+  "/[locale]/character/page": "app/[locale]/character/page.js",
+  "/[locale]/CC/page": "app/[locale]/CC/page.js",
+  "/[locale]/previews/page": "app/[locale]/previews/page.js",
+  "/[locale]/page": "app/[locale]/page.js",
+  "/[locale]/greetings/page": "app/[locale]/greetings/page.js",
+  "/[locale]/settings/page": "app/[locale]/settings/page.js",
+  "/[locale]/worldbook/page": "app/[locale]/worldbook/page.js"
+}
